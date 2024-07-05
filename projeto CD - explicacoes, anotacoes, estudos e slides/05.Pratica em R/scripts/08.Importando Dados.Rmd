@@ -3,7 +3,7 @@ Formação Cientista de Dados - Prof. Fernando Amaral
 Importando Dados
 ---
 ```{r}
-#install.packages("openxlsx")
+install.packages("openxlsx")
 library(openxlsx)
 ```
 Texto
